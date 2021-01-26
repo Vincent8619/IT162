@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Steve's WEB120 Portal</title>
+  <title>Steve's IT162 Portal</title>
   <meta name="viewport" content="width=device-width" />
   <meta name="robots" content="noindex,nofollow" />
   <meta charset="utf-8">
@@ -15,7 +15,7 @@
 <!-- START WRAPPER -->
 <main class="wrapper">
 <header>
-  <h1><a href="index.php"><i class="logo fa fa-home"></i>Steve Taylor's SCC WEB120 Portal</a></h1>
+  <h1><a href="index.php"><i class="logo fa fa-home"></i>Steve Taylor's SCC IT 162 Portal</a></h1>
   <nav>
     <ul class="topnav" id="myTopnav">
       <li><a href="index.php" class="selected">Home</a></li>
